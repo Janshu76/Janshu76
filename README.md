@@ -77,7 +77,7 @@ const janshu = {
 
 <div align="center">
   <picture><source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=Janshu76&show_icons=true&bg_color=070B1D&title_color=FF9E64&text_color=C9D1FF&icon_color=7AA2FF&hide_border=true"><source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=Janshu76&show_icons=true&theme=default&hide_border=true"><img alt="Janshu's GitHub statistics" src="https://github-readme-stats.vercel.app/api?username=Janshu76&show_icons=true&bg_color=070B1D&title_color=FF9E64&text_color=C9D1FF&icon_color=7AA2FF&hide_border=true" height="170"></picture>
-  <picture><source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Janshu76&layout=compact&bg_color=070B1D&title_color=FF9E64&text_color=C9D1FF&hide_border=true"><source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Janshu76&layout=compact&theme=default&hide_border=true"><img alt="Janshu's most used programming languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Janshu76&layout=compact&bg_color=070B1D&title_color=FF9E64&text_color=C9D1FF&hide_border=true" height="170"></picture>
+  <picture><source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Janshu76&theme=github_dark&bg_color=070B1D&title_color=FF9E64&text_color=C9D1FF&chart_color=FF9E64"><source media="(prefers-color-scheme: light)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Janshu76&theme=default"><img alt="Janshu's programming language distribution across repositories" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Janshu76&theme=github_dark&bg_color=070B1D&title_color=FF9E64&text_color=C9D1FF&chart_color=FF9E64" height="170"></picture>
   <br />
   <picture><source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=Janshu76&background=070B1D&ring=FF9E64&fire=FF9E64&currStreakLabel=C9D1FF&sideLabels=C9D1FF&dates=8792B0&hide_border=true"><source media="(prefers-color-scheme: light)" srcset="https://streak-stats.demolab.com?user=Janshu76&theme=default&hide_border=true"><img alt="Janshu's GitHub contribution streak" src="https://streak-stats.demolab.com?user=Janshu76&background=070B1D&ring=FF9E64&fire=FF9E64&currStreakLabel=C9D1FF&sideLabels=C9D1FF&dates=8792B0&hide_border=true" height="170"></picture>
   <br />
@@ -97,8 +97,10 @@ const janshu = {
 </div>
 
 <!-- ASSETS PLAN
-assets/banner.png — retro galaxy banner image; recommended 1500 × 420 px. Current image is 414 × 285 px and will display as a centered galaxy image.
+assets/banner.png — retro galaxy banner image; current image is 1500 × 420 px.
 assets/about.png — multi-monitor developer image; recommended 760 × 500 px (current image is 735 × 490 px).
 -->
+
+
 
 
