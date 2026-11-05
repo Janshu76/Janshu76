@@ -1,10 +1,6 @@
 <!--
-PLACEHOLDERS TO REPLACE
-- <username>: GitHub username (currently Janshu76)
-- LinkedIn: https://linkedin.com/in/your-handle
-- X: https://x.com/your-handle
-- Email: your email address
-- Discord: https://discord.com/users/your-id
+Profile: Janshu76
+Email: janshumishra90@gmail.com
 -->
 
 <div align="center">
@@ -45,11 +41,8 @@ const janshu = {
 ## 🌐 Connect With Me
 
 <div align="center">
-  <a href="https://linkedin.com/in/your-handle" aria-label="LinkedIn profile"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-17152B?style=for-the-badge&logo=linkedin&logoColor=FF9E64" /></a>
-  <a href="https://github.com/<username>" aria-label="GitHub profile"><img alt="GitHub" src="https://img.shields.io/badge/GitHub-17152B?style=for-the-badge&logo=github&logoColor=FF9E64" /></a>
-  <a href="https://x.com/your-handle" aria-label="X profile"><img alt="X" src="https://img.shields.io/badge/X-17152B?style=for-the-badge&logo=x&logoColor=FF9E64" /></a>
-  <a href="mailto:your-email@example.com" aria-label="Send email"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-17152B?style=for-the-badge&logo=gmail&logoColor=FF9E64" /></a>
-  <a href="https://discord.com/users/your-id" aria-label="Discord profile"><img alt="Discord" src="https://img.shields.io/badge/Discord-17152B?style=for-the-badge&logo=discord&logoColor=FF9E64" /></a>
+  <a href="mailto:janshumishra90@gmail.com" aria-label="Email Janshu"><img alt="Email Janshu: janshumishra90@gmail.com" src="https://img.shields.io/badge/Email-janshumishra90%40gmail.com-17152B?style=for-the-badge&logo=gmail&logoColor=FF9E64" /></a>
+  <a href="https://github.com/Janshu76" aria-label="GitHub profile Janshu76"><img alt="GitHub: Janshu76" src="https://img.shields.io/badge/GitHub-Janshu76-17152B?style=for-the-badge&logo=github&logoColor=FF9E64" /></a>
 </div>
 
 ## 🧰 Tech Stack
@@ -83,27 +76,29 @@ const janshu = {
 ## 📊 GitHub Analytics
 
 <div align="center">
-  <picture><source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=<username>&show_icons=true&bg_color=070B1D&title_color=FF9E64&text_color=C9D1FF&icon_color=7AA2FF&hide_border=true"><source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=<username>&show_icons=true&theme=default&hide_border=true"><img alt="Janshu's GitHub statistics" src="https://github-readme-stats.vercel.app/api?username=<username>&show_icons=true&bg_color=070B1D&title_color=FF9E64&text_color=C9D1FF&icon_color=7AA2FF&hide_border=true" height="170"></picture>
-  <picture><source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=<username>&layout=compact&bg_color=070B1D&title_color=FF9E64&text_color=C9D1FF&hide_border=true"><source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=<username>&layout=compact&theme=default&hide_border=true"><img alt="Janshu's most used programming languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=<username>&layout=compact&bg_color=070B1D&title_color=FF9E64&text_color=C9D1FF&hide_border=true" height="170"></picture>
+  <picture><source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=Janshu76&show_icons=true&bg_color=070B1D&title_color=FF9E64&text_color=C9D1FF&icon_color=7AA2FF&hide_border=true"><source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=Janshu76&show_icons=true&theme=default&hide_border=true"><img alt="Janshu's GitHub statistics" src="https://github-readme-stats.vercel.app/api?username=Janshu76&show_icons=true&bg_color=070B1D&title_color=FF9E64&text_color=C9D1FF&icon_color=7AA2FF&hide_border=true" height="170"></picture>
+  <picture><source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Janshu76&layout=compact&bg_color=070B1D&title_color=FF9E64&text_color=C9D1FF&hide_border=true"><source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Janshu76&layout=compact&theme=default&hide_border=true"><img alt="Janshu's most used programming languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Janshu76&layout=compact&bg_color=070B1D&title_color=FF9E64&text_color=C9D1FF&hide_border=true" height="170"></picture>
   <br />
-  <picture><source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=<username>&background=070B1D&ring=FF9E64&fire=FF9E64&currStreakLabel=C9D1FF&sideLabels=C9D1FF&dates=8792B0&hide_border=true"><source media="(prefers-color-scheme: light)" srcset="https://streak-stats.demolab.com?user=<username>&theme=default&hide_border=true"><img alt="Janshu's GitHub contribution streak" src="https://streak-stats.demolab.com?user=<username>&background=070B1D&ring=FF9E64&fire=FF9E64&currStreakLabel=C9D1FF&sideLabels=C9D1FF&dates=8792B0&hide_border=true" height="170"></picture>
+  <picture><source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=Janshu76&background=070B1D&ring=FF9E64&fire=FF9E64&currStreakLabel=C9D1FF&sideLabels=C9D1FF&dates=8792B0&hide_border=true"><source media="(prefers-color-scheme: light)" srcset="https://streak-stats.demolab.com?user=Janshu76&theme=default&hide_border=true"><img alt="Janshu's GitHub contribution streak" src="https://streak-stats.demolab.com?user=Janshu76&background=070B1D&ring=FF9E64&fire=FF9E64&currStreakLabel=C9D1FF&sideLabels=C9D1FF&dates=8792B0&hide_border=true" height="170"></picture>
   <br />
-  <a href="https://github.com/<username>"><img alt="Janshu's GitHub activity graph" src="https://github-readme-activity-graph.vercel.app/graph?username=<username>&bg_color=070B1D&color=C9D1FF&line=FF9E64&point=7AA2FF&area=true&hide_border=true" width="95%"></a>
+  <a href="https://github.com/Janshu76"><img alt="Janshu's GitHub activity graph" src="https://github-readme-activity-graph.vercel.app/graph?username=Janshu76&bg_color=070B1D&color=C9D1FF&line=FF9E64&point=7AA2FF&area=true&hide_border=true" width="95%"></a>
 </div>
 
 ## 🏆 GitHub Trophies
 
 <div align="center">
-  <img alt="Janshu's GitHub profile trophies" src="https://github-profile-trophy.vercel.app/?username=<username>&theme=onestar&no-frame=true&row=1&column=7" width="95%" />
+  <img alt="Janshu's GitHub profile trophies" src="https://github-profile-trophy.vercel.app/?username=Janshu76&theme=onestar&no-frame=true&row=1&column=7" width="95%" />
 </div>
 
 ## ✨ Let's build something scalable
 
 <div align="center">
-  <img alt="Profile visitor count" src="https://komarev.com/ghpvc/?username=<username>&style=for-the-badge&color=6D5BFF&label=PROFILE+VISITORS" />
+  <img alt="Profile visitor count" src="https://komarev.com/ghpvc/?username=Janshu76&style=for-the-badge&color=6D5BFF&label=PROFILE+VISITORS" />
 </div>
 
 <!-- ASSETS PLAN
 assets/banner.png — retro galaxy banner image; recommended 1500 × 420 px. Current image is 414 × 285 px and will display as a centered galaxy image.
 assets/about.png — multi-monitor developer image; recommended 760 × 500 px (current image is 735 × 490 px).
 -->
+
+
