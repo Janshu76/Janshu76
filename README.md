@@ -77,17 +77,9 @@ const janshu = {
 
 <div align="center">
   <picture><source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=Janshu76&show_icons=true&bg_color=070B1D&title_color=FF9E64&text_color=C9D1FF&icon_color=7AA2FF&hide_border=true"><source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=Janshu76&show_icons=true&theme=default&hide_border=true"><img alt="Janshu's GitHub statistics" src="https://github-readme-stats.vercel.app/api?username=Janshu76&show_icons=true&bg_color=070B1D&title_color=FF9E64&text_color=C9D1FF&icon_color=7AA2FF&hide_border=true" height="170"></picture>
-  <picture><source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Janshu76&theme=github_dark&bg_color=070B1D&title_color=FF9E64&text_color=C9D1FF&chart_color=FF9E64"><source media="(prefers-color-scheme: light)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Janshu76&theme=default"><img alt="Janshu's programming language distribution across repositories" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Janshu76&theme=github_dark&bg_color=070B1D&title_color=FF9E64&text_color=C9D1FF&chart_color=FF9E64" height="170"></picture>
   <br />
   <picture><source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=Janshu76&background=070B1D&ring=FF9E64&fire=FF9E64&currStreakLabel=C9D1FF&sideLabels=C9D1FF&dates=8792B0&hide_border=true"><source media="(prefers-color-scheme: light)" srcset="https://streak-stats.demolab.com?user=Janshu76&theme=default&hide_border=true"><img alt="Janshu's GitHub contribution streak" src="https://streak-stats.demolab.com?user=Janshu76&background=070B1D&ring=FF9E64&fire=FF9E64&currStreakLabel=C9D1FF&sideLabels=C9D1FF&dates=8792B0&hide_border=true" height="170"></picture>
   <br />
-  <a href="https://github.com/Janshu76"><img alt="Janshu's GitHub activity graph" src="https://github-readme-activity-graph.vercel.app/graph?username=Janshu76&bg_color=070B1D&color=C9D1FF&line=FF9E64&point=7AA2FF&area=true&hide_border=true" width="95%"></a>
-</div>
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-  <img alt="Janshu's GitHub profile trophies" src="https://github-profile-trophy.vercel.app/?username=Janshu76&theme=onestar&no-frame=true&row=1&column=7" width="95%" />
 </div>
 
 ## ✨ Let's build something scalable
@@ -100,6 +92,7 @@ const janshu = {
 assets/banner.png — retro galaxy banner image; current image is 1500 × 420 px.
 assets/about.png — multi-monitor developer image; recommended 760 × 500 px (current image is 735 × 490 px).
 -->
+
 
 
 
